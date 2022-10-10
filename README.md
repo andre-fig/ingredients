@@ -17,7 +17,7 @@
 * input: Classic,-passion fruit
 * output: banana,honey,mango,peach,pineapple,strawberry
 
-## Non-existing smoothie
+### Non-existing smoothie
 
 * input: Gourmet
 * output: IllegalArgumentException
